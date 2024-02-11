@@ -8,7 +8,8 @@
       - Contact info: 1032220170@tcetmumbai.in
   - Sourajeet Sahoo
       - SE E&CS TCET
-      - Contact info: sourajeet73@gmail.com
+      - Contact info: 
+1032220162@tcetmumbai.in
 
 # Introduction 
   
@@ -52,6 +53,12 @@ Here is the breakdown of all the Features present in our Dataset
 - moon_phase: Current phase of the moon.
 - moon_illumination: Illumination percentage of the moon.
 
+Weight Correlation:
+https://docs.google.com/spreadsheets/d/1-4wqP3Ghzi-b3OlvsEeVuWAYrJDk3iTY/edit?usp=drivesdk&ouid=108445299528396807744&rtpof=true&sd=true
+
+General Data:
+https://docs.google.com/spreadsheets/d/1-HOKUIZgKkhfbySmf7sPmb7O9Pmmbx2G/edit?usp=drivesdk&ouid=108445299528396807744&rtpof=true&sd=true
+
 ![image](https://github.com/krjofficial/ThinkML-TML-11/assets/98098201/caa871e3-bc8a-45c5-9903-234cdb443225)
 ![image](https://github.com/krjofficial/ThinkML-TML-11/assets/98098201/ce306734-d6ca-47e7-a451-1493bf774db5)
 
@@ -74,6 +81,10 @@ Upon analyzing our data and experimenting with various classification models, we
 
 **Initial Assessment:**
 Models like Naive Bayes, Decision Trees, and Random Forest showed lower accuracy initially.
+
+Naive Bayes(Intial trial):
+https://docs.google.com/spreadsheets/d/1-SSmurgyxJ_3cmwg_03Gh-nt1kpPH67g/edit?usp=drivesdk&ouid=108445299528396807744&rtpof=true&sd=true
+
 On the other hand, Generalized Linear Model (GLM) and Deep Learning stood out with better accuracy.
 ![image](https://github.com/krjofficial/ThinkML-TML-11/assets/98098201/817ad7a1-4977-462c-876c-09bb02f233d3)
 
@@ -96,6 +107,11 @@ Our analysis revealed that Deep Learning was the most effective model for predic
 
 https://www.youtube.com/watch?v=yN7ypxC7838
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw
+https://youtu.be/TyvYZ26alZs?si=8QCgJDxSRemSAz34
+https://youtu.be/2sff9uQZw8Q?si=YaU1Xp4W8Gaqelz5
+https://youtu.be/IzcX9bTJLj8?si=ZC-0zWyxnXlwv4a0
+https://youtu.be/zpIX09VdvYo?si=JRcU31yfFo1q1OqV
+https://towardsdatascience.com/weather-forecasting-with-machine-learning-using-python-55e90c346647
 
 Documentation and Tutorials available in the Rapidminer Itself.
 
