@@ -23,47 +23,34 @@ Our goal is to develop a reliable and efficient model that can contribute to imp
 Our dataset contains historical weather records from various locations across 196 countries. The data covers a wide range of atmospheric parameters and weather conditions, providing insights into past weather patterns and trends.
 Here is the breakdown of all the Features present in our Dataset
 
-country: Name of the country where the weather data was recorded.
-location_name: Name of the location within the country where the weather data was recorded. (Mostly Capitals of the Country)
-latitude
-longitude
-timezone
-last_updated_epoch: Time when the weather data was last updated in epoch format (seconds since January 1, 1970).
-last_updated: Time when the weather data was last updated in human-readable format.
-temperature_celsius: Temperature in degrees Celsius.
-temperature_fahrenheit: Temperature in degrees Fahrenheit.
-condition_text: Description of the weather condition (e.g., Sunny, Rainy, Partly cloudy).
-wind_mph: Wind speed in miles per hour.
-wind_kph: Wind speed in kilometers per hour.
-wind_degree: Wind direction in degrees.
-wind_direction: Wind direction in compass direction (e.g., ENE for East-Northeast).
-pressure_mb: Atmospheric pressure in millibars.
-pressure_in: Atmospheric pressure in inches of mercury.
-precip_mm: Precipitation amount in millimeters.
-precip_in: Precipitation amount in inches.
-humidity: Relative humidity as a percentage.
-cloud: Cloud cover as a percentage.
-feels_like_celsius: "Feels like" temperature in degrees Celsius.
-feels_like_fahrenheit: "Feels like" temperature in degrees Fahrenheit.
-visibility_km: Visibility in kilometers.
-visibility_miles: Visibility in miles.
-uv_index: UV index.
-gust_mph: Gust speed in miles per hour.
-gust_kph: Gust speed in kilometers per hour.
-air_quality_Carbon_Monoxide: Air quality measurement for Carbon Monoxide.
-air_quality_Ozone: Air quality measurement for Ozone.
-air_quality_Nitrogen_dioxide: Air quality measurement for Nitrogen dioxide.
-air_quality_Sulphur_dioxide: Air quality measurement for Sulphur dioxide.
-air_quality_PM2.5: Air quality measurement for PM2.5 particulate matter.
-air_quality_PM10: Air quality measurement for PM10 particulate matter.
-air_quality_us-epa-index: Air quality index based on US EPA standards.
-air_quality_gb-defra-index: Air quality index based on UK DEFRA standards.
-sunrise: Time of sunrise.
-sunset: Time of sunset.
-moonrise: Time of moonrise.
-moonset: Time of moonset.
-moon_phase: Current phase of the moon.
-moon_illumination: Illumination percentage of the moon.
+- country: Name of the country where the weather data was recorded.
+- location_name: Name of the location within the country where the weather data was recorded. (Mostly Capitals of the Country)
+- latitude
+- longitude
+- timezone
+- last_updated_epoch: Time when the weather data was last updated in epoch format (seconds since January 1, 1970).
+- last_updated: Time when the weather data was last updated in human-readable format.
+- temperature_celsius: Temperature in degrees Celsius.
+- temperature_fahrenheit: Temperature in degrees Fahrenheit.
+- condition_text: Description of the weather condition (e.g., Sunny, Rainy, Partly cloudy). (Target Variable)
+- Wind speed in miles per hour and kilometers per hour.
+- wind_degree: Wind direction in degrees.
+- wind_direction: Wind direction in compass direction (e.g., ENE for East-Northeast).
+- Atmospheric pressure in millibars and inches of Mercury.
+- Precipitation amount in millimeters and inches.
+- humidity: Relative humidity as a percentage.
+- cloud: Cloud cover as a percentage.
+- feels_like_celsius: "Feels like" temperature in degrees Celsius.
+- feels_like_fahrenheit: "Feels like" temperature in degrees Fahrenheit.
+- Visibility in kilometers and miles.
+- uv_index: UV index.
+- Gust speed in miles per hour and kilometers per hour.
+- Air quality measurement for Carbon Monoxide, Ozone, Nitrogen Dioxide, Sulphur Dioxide, PM2.5 particulate matter, PM10 particulate Matter
+- air_quality_us-epa-index: Air quality index based on US EPA standards.
+- air_quality_gb-defra-index: Air quality index based on UK DEFRA standards.
+- Time of Sunrise, Sunset, Moonrise, Moonset
+- moon_phase: Current phase of the moon.
+- moon_illumination: Illumination percentage of the moon.
 
 ![image](https://github.com/krjofficial/ThinkML-TML-11/assets/98098201/caa871e3-bc8a-45c5-9903-234cdb443225)
 ![image](https://github.com/krjofficial/ThinkML-TML-11/assets/98098201/ce306734-d6ca-47e7-a451-1493bf774db5)
