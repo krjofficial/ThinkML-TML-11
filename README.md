@@ -106,14 +106,20 @@ Our analysis revealed that Deep Learning was the most effective model for predic
 # References
 
 https://www.youtube.com/watch?v=yN7ypxC7838
+
 https://www.youtube.com/watch?v=nKW8Ndu7Mjw
+
 https://youtu.be/TyvYZ26alZs?si=8QCgJDxSRemSAz34
+
 https://youtu.be/2sff9uQZw8Q?si=YaU1Xp4W8Gaqelz5
+
 https://youtu.be/IzcX9bTJLj8?si=ZC-0zWyxnXlwv4a0
+
 https://youtu.be/zpIX09VdvYo?si=JRcU31yfFo1q1OqV
+
 https://towardsdatascience.com/weather-forecasting-with-machine-learning-using-python-55e90c346647
 
-Documentation and Tutorials available in the Rapidminer Itself.
+Documentation and Tutorials available in the Rapidminer Studio.
 
 
 
